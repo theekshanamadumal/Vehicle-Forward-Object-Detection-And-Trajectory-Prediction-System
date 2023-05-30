@@ -1,3 +1,9 @@
+# Forward-Collision-Warning-System
+Stereo vision based approach to 
+detect and track vehicles, pedestrians , predict path projections 
+and identify possible collisions to warn the driver.
+
+
 # Visual 3D Detection Package:
 
 This repo aims to provide flexible and reproducible visual 3D detection on KITTI dataset. We expect scripts starting from the current directory, and treat ./visualDet3D as a package that we could modify and test directly instead of a library. Several useful scripts are provided in the main directory for easy usage.
